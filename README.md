@@ -27,7 +27,7 @@
 [<img src="https://img.youtube.com/vi/h3jAhAf5PtU/hqdefault.jpg" width="600" height="300"
 />](https://www.youtube.com/embed/h3jAhAf5PtU)
     
-- **제목, 작성자 닉네임, 댓글내용으로 게시글 검색 **
+- **제목, 작성자 닉네임, 댓글내용으로 게시글 검색**
     
 [<img src="https://img.youtube.com/vi/KzthyTvqZfE/hqdefault.jpg" width="600" height="300"
 />](https://www.youtube.com/embed/KzthyTvqZfE)
