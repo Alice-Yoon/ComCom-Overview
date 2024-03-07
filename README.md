@@ -78,7 +78,7 @@ const imageHandler = () => {
         const cursor = editor.getSelection(true) 
         editor.insertEmbed(cursor.index, 'image', url)
 
-				// Move the cursor to the right side of the image for better user experience
+        // Move the cursor to the right side of the image for better user experience
         editor.setSelection(cursor.index + 1) 
 
       } catch (error) {
@@ -124,7 +124,7 @@ exports.protect = asyncHandler(async (req, res, next) => {
 ```jsx
 router
     .route('/')
-		.post(protect, addPost)
+    .post(protect, addPost)
 ```
 
 ## 댓글에서 다른 유저 태그하고, 태그시 알림 받기
